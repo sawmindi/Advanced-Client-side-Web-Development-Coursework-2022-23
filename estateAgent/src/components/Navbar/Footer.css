@@ -1,0 +1,19 @@
+/* Add this to your external CSS file */
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(248, 245, 245);
+    color: #fff;
+    padding: 10px 0;
+    align-items: center;
+    text-align: center;
+    
+  }
+  @media (max-width: 767px) {
+    /* Adjust styles for smaller screens */
+    .footer {
+      position: static; /* Change to static for smaller screens */
+    }
+  }

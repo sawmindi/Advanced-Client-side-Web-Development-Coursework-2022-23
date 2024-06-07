@@ -1,0 +1,165 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"tenure":"Freehold",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood, Orpington",
+			"postal code":"PR5 1LA",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.6744206617686!2d0.07950867687345958!3d51.39066161922436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab82cc8f3cb1%3A0xc746da03b0c6c716!2sPetts%20Wood%20Rd%2C%20Petts%20Wood%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2slk!4v1703920845483!5m2!1sen!2slk",
+			"picture":"images/prop1pic1small.jpg",
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+			,
+            "pictures": [
+                "/images/p41.png",
+				"/images/p42.png",
+				"/images/p43.png",
+				"/images/p44.png",
+				"/images/p45.png",
+				"/images/p46.png"
+            ]
+        },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"tenure":"Freehold",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6,",
+			"postal code":"BR6 8HD",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.6140724237566!2d0.06955147687262565!3d51.37339112048395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab6ac2bdc8d1%3A0xb0dde3c09939f924!2sCrofton%20Rd%2C%20Orpington%20BR6%2C%20UK!5e0!3m2!1sen!2slk!4v1703920638856!5m2!1sen!2slk",
+			"picture":"images/prop2pic1small.jpg",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+			,
+            "pictures": [
+                "/images/p51.png",
+				"/images/p52.png",
+				"/images/p53.png",
+				"/images/p54.png",
+				"/images/p55.png",
+				"/images/p56.png"
+            ]
+        },
+        {
+			"id": "prop3",
+			"type": "Apartment",
+			"bedrooms": 6,
+			"price": 250000,
+			"tenure": "Leasehold",
+			"description": "A stylish one-bedroom apartment with a modern open-plan kitchen and living area. The property features large windows offering plenty of natural light. The bedroom is spacious, and the bathroom is fitted with contemporary fixtures. Conveniently located near public transportation and local amenities.",
+			"location": "High Street, Bromley",
+			"postal code":"AZ1 1LF",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.195649608365!2d-0.02028240734141828!3d51.527971236542605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761d444c42bcf5%3A0x85bffc5b6e2d05dd!2sBromley%20High%20St.%2C%20London%2C%20UK!5e0!3m2!1sen!2slk!4v1703920917458!5m2!1sen!2slk",
+			"picture": "images/prop3pic1small.jpg",
+			"url": "properties/prop3.html",
+			"added": {
+				"month": "November",
+				"day": 5,
+				"year": 2022
+			}
+			,
+            "pictures": [
+				"/images/p31.png",
+                "/images/p32.png",
+                "/images/p33.png",
+				"/images/p34.png",
+                "/images/p35.png",
+                "/images/p36.png"
+            ]
+		},{
+			"id": "prop4",
+			"type": "House",
+			"bedrooms": 4,
+			"price": 980000,
+			"tenure": "Freehold",
+			"description": "A charming four-bedroom family home with a landscaped garden. The property offers a spacious living room, a well-equipped kitchen, and a separate dining area. The master bedroom comes with an en-suite bathroom. Additional features include a garage and off-street parking. Close proximity to schools and parks.",
+			"location": "Oak Avenue, Chislehurst",
+			"postal code":"KA1 6RW",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2477.908686224361!2d-0.08403552311630805!3d51.60656170345408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876004724f15555%3A0x434f9aa20588c9dc!2sChislehurst%20Homecare%20Partnership%20Limited!5e0!3m2!1sen!2slk!4v1703920971758!5m2!1sen!2slk",
+			"picture": "images/prop4pic1small.jpg",
+			"url": "properties/prop4.html",
+			"added": {
+				"month": "October",
+				"day": 20,
+				"year": 2022
+			}
+			,
+            "pictures": [
+				"/images/p41.png",
+				"/images/p42.png",
+				"/images/p43.png",
+				"/images/p44.png",
+				"/images/p45.png",
+				"/images/p46.png"
+			  ]
+		},{
+			"id": "prop5",
+			"type": "Maisonette",
+			"bedrooms": 3,
+			"price": 550000,
+			"tenure": "Leasehold",
+			"description": "A well-maintained three-bedroom maisonette featuring a modern kitchen, a bright and airy living room, and a private balcony. The property benefits from ample storage space and is within walking distance to public transport, shops, and local parks.",
+			"location": "Maple Lane, Sevenoaks",
+			"postal code":"I11 6RW",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2455.770279642588!2d0.3278140769029739!3d52.01106377378457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d88a7cb05dc483%3A0xc9d8bed5d91f9163!2sMaple%20Lane!5e0!3m2!1sen!2slk!4v1703921014106!5m2!1sen!2slk",
+			"picture": "images/prop5pic1small.jpg",
+			"url": "properties/prop5.html",
+			"added": {
+				"month": "November",
+				"day": 10,
+				"year": 2022
+			}
+			,
+            "pictures": [
+				"/images/p51.png",
+				"/images/p52.png",
+				"/images/p53.png",
+				"/images/p54.png",
+				"/images/p55.png",
+				"/images/p56.png"
+			  ]
+
+        },{
+			"id": "prop6",
+			"type": "Townhouse",
+			"bedrooms": 3,
+			"price": 675000,
+			"tenure": "Freehold",
+			"description": "A modern three-bedroom townhouse with a spacious living area, contemporary kitchen, and private garden. The master bedroom includes an en-suite bathroom, and the property benefits from a garage. Located in a quiet residential area with easy access to schools, parks, and public transport.",
+			"location": "Primrose Close, Bexley",
+			"postal code":"L11 6RW",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3391.3436788437384!2d-82.4828055238934!3d31.788382233850953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f06b5c1d9b92bf%3A0xd2da59e6bb772d3f!2sPrimrose%20Ln%2C%20Georgia%2031513%2C%20USA!5e0!3m2!1sen!2slk!4v1703921055749!5m2!1sen!2slk",
+			"picture": "images/prop6pic1small.jpg",
+			"url": "properties/prop6.html",
+			"added": {
+				"month": "December",
+				"day": 5,
+				"year": 2022
+			}
+			,
+            "pictures": [
+				"/images/p61.png",
+				"/images/p62.png",
+				"/images/p63.jpg",
+				"/images/p64.jpg",
+				"/images/p65.jpg",
+				"/images/p66.jpg"
+			  ]
+		}
+		
+	]
+}

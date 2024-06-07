@@ -1,0 +1,22 @@
+.slick-slider-custom {
+    padding: 10px;
+    max-width: 800px;
+    margin: auto;
+    height: 350px;
+  }
+  
+  .slick-slider-custom img {
+    max-width: 800px;
+    height: 300px;
+    border-radius: 20px; /* Add rounded corners */
+  }
+  .svg-icon {
+    fill: #20247b; /* Fill color of the SVG path */
+    width: 24px; /* Width of the SVG icon */
+    height: 24px; /* Height of the SVG icon */
+    transition: fill 0.3s ease;
+  }
+  .svg-icon:hover {
+    fill: #fa2e2e; /* Fill color of the SVG path on hover */
+  }
+  

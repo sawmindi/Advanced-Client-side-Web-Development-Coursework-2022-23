@@ -1,0 +1,37 @@
+/* NavBar.css */
+
+/* Override Bootstrap Navbar background and padding */
+.bg-body-tertiary {
+  background-color: #f8f9fa; /* Light grey background color */
+  padding-top: 15px; /* Adjust the top padding as needed */
+  padding-bottom: 15px; /* Adjust the bottom padding as needed */
+}
+
+/* Override Bootstrap Navbar Brand styling */
+.custom-navbar-brand {
+  color: #007bff; /* Blue color for the brand */
+  font-size: 24px; /* Set your custom font size */
+  font-weight: bold; /* Set your custom font weight */
+}
+
+/* Override Bootstrap Navbar Link styling */
+.nav-link {
+  color: #0d58a3; /* Dark grey color for links */
+  font-size: 18px; /* Set your custom link font size */
+}
+
+/* Override Bootstrap Navbar Link Active styling */
+.nav-link.active {
+  color: #007bff; /* Blue color for active links */
+  font-weight: bold; /* Set your custom active link font weight */
+}
+
+.bg-body-tertiary .navbar-nav .nav-link:hover {
+  color: #0023a0;
+  font-weight: bold; 
+  
+}
+.custom-navbar-brand {
+  
+  font-size: 70px;
+}

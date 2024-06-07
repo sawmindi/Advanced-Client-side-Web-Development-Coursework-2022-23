@@ -1,0 +1,42 @@
+/* HomePage.css */
+
+/* Styles for Carousel */
+.carousel {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  /* Styles for Our Services section */
+  .container-fluid {
+    /* Light background color */
+    padding: 100px 0; /*padding added*/
+    margin-bottom:50px ;
+  }
+  
+  h2.text-center {
+    color: #343a40; /* Dark text color */
+  }
+  
+  
+  p.text-center {
+    font-size: 18px;
+    color: #6c757d; /* Medium-dark text color */
+  }
+  
+  /* Styles for Our Services cards */
+
+/* Styles for h3 */
+.carousel-caption h3 {
+  font-size: 60px; 
+  color: #f9fcff; 
+}
+
+/* Styles for p */
+.carousel-caption p {
+  color: #ffffff; 
+  font-size: 30px;
+}
+
+  
+ 
+  

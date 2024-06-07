@@ -1,0 +1,35 @@
+/* Aboutus.css */
+.about-us-body {
+  margin: 0;
+  padding: 0;
+  background-image: url('./src/components/CarouselImage/3.jpg'); 
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-position: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.about-us-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(160, 28, 28, 0.1); 
+  background-color: #fff;
+  
+}
+
+h1 {
+  color: #ff0707;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #555;
+}
+ 
+  
